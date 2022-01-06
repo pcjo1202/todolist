@@ -1,0 +1,6 @@
+{
+  
+  "quotes" : ["backtick", "single", "double"], 
+  "semi": true,
+  "tabWidth": 2
+}
